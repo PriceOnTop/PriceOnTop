@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Tools-Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode&perline=1" />
     <img src="https://skillicons.dev/icons?i=python,javascript,html" /><br>
 </div>
 
