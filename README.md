@@ -9,9 +9,10 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **a Secure Discord Bot**
  
- 🌱 I’m currently learning **Python, HTML, JavaScript**
+ 🔭 I’m currently working on a **Secure Discord Bot**
+ 
+ 🌱 I’m currently learning **Python** and a bit of *HTML & JavaScript*
 
  </div>
  
