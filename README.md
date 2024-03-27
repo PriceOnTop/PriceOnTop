@@ -35,21 +35,11 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=PriceOnTop&theme=shadow-blue&border_radius=50&locale=fr"/>
-  <img width=390 src="https://github-readme-stats-priceontop.vercel.app/api?username=priceontop&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=priceontop&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
