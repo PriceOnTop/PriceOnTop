@@ -38,8 +38,8 @@
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=PriceOnTop&theme=shadow-blue&border_radius=50&locale=fr"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=priceontop&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com?user=PriceOnTop&theme=blueberry&border_radius=50&locale=fr"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=priceontop&count_private=true&show_icons=true&theme=blueberry&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
