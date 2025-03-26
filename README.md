@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Secure Discord Bot**
+ 🔭 I’m currently working on a **NOTHING**
  
- 🌱 I’m currently learning **Python** and a bit of *HTML & JavaScript*
+ 🌱 I’m currently learning **Python**.
 
  </div>
  
@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode&perline=1" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,html" /><br>
+    <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
 <br/>
